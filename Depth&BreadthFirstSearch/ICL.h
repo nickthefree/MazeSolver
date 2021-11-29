@@ -26,6 +26,7 @@ public:
 }
 private:
     int size;
+    int testInt;
     int iNum = 2;
     double density, rnd;
     vector<int> *myvec;//Pointer to dynamically allocated vector array to hold maze image
